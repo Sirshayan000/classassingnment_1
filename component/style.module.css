@@ -1,0 +1,11 @@
+
+#navbar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#links{
+    list-style-type: none;
+}
